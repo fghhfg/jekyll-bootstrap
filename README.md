@@ -1,5 +1,7 @@
 # Jekyll-Bootstrap
 
+[![Build Status](https://travis-ci.org/fghhfg/jekyll-bootstrap.png?branch=master)](https://travis-ci.org/fghhfg/jekyll-bootstrap)
+
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
 
 ## Usage
